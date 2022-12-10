@@ -6,3 +6,6 @@ __pycache__/
 *.py[cod]
 *.sqlite3
 *.pyc
+.venv/
+.DS_Store
+launch.json
